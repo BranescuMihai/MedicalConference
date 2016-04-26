@@ -1,0 +1,2 @@
+# MedicalConference
+An android project
