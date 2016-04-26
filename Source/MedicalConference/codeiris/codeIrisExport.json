@@ -1,0 +1,236 @@
+[
+  {
+    "packageName": "com.crossover.medicalconference",
+    "superClass": null,
+    "className": "BuildConfig",
+    "associations": [ ],
+    "usages": [ ],
+    "interfaces": [ ],
+    "type": "CLASS"
+  },
+  {
+    "packageName": "com.crossover.medicalconference",
+    "superClass": null,
+    "className": "ApplicationTest",
+    "associations": [ ],
+    "usages": [ ],
+    "interfaces": [ ],
+    "type": "CLASS"
+  },
+  {
+    "packageName": "com.crossover.medicalconference.Activites",
+    "superClass": null,
+    "className": "AdminPanel",
+    "associations": [ ],
+    "usages": [ ],
+    "interfaces": [ ],
+    "type": "CLASS"
+  },
+  {
+    "packageName": "com.crossover.medicalconference.Adapters",
+    "superClass": null,
+    "className": "CustomListAdapterConferences",
+    "associations": [ ],
+    "usages": [ "com.crossover.medicalconference.Fragments.FragmentConferences" ],
+    "interfaces": [ ],
+    "type": "CLASS"
+  },
+  {
+    "packageName": "com.crossover.medicalconference.Activites",
+    "superClass": null,
+    "className": "AcceptedDoctorsActivity",
+    "associations": [ ],
+    "usages": [ ],
+    "interfaces": [ ],
+    "type": "CLASS"
+  },
+  {
+    "packageName": "com.crossover.medicalconference.Activites",
+    "superClass": null,
+    "className": "ConferenceActivityAdmin",
+    "associations": [ ],
+    "usages": [ "com.crossover.medicalconference.Activites.ConferenceActivityAdmin$override" ],
+    "interfaces": [ ],
+    "type": "CLASS"
+  },
+  {
+    "packageName": "com.crossover.medicalconference.Adapters",
+    "superClass": null,
+    "className": "CustomListAdapterInvites",
+    "associations": [ ],
+    "usages": [ "com.crossover.medicalconference.Adapters.CustomListAdapterInvites$override", "com.crossover.medicalconference.Fragments.FragmentInvites" ],
+    "interfaces": [ ],
+    "type": "CLASS"
+  },
+  {
+    "packageName": "com.crossover.medicalconference",
+    "superClass": null,
+    "className": "LoginActivityTest",
+    "associations": [ ],
+    "usages": [ ],
+    "interfaces": [ ],
+    "type": "CLASS"
+  },
+  {
+    "packageName": "com.crossover.medicalconference",
+    "superClass": null,
+    "className": "ExampleUnitTest",
+    "associations": [ ],
+    "usages": [ ],
+    "interfaces": [ ],
+    "type": "CLASS"
+  },
+  {
+    "packageName": "com.crossover.medicalconference.Activites",
+    "superClass": null,
+    "className": "ConferenceActivityAdmin$override",
+    "associations": [ "com.crossover.medicalconference.Activites.ConferenceActivityAdmin" ],
+    "usages": [ ],
+    "interfaces": [ ],
+    "type": "CLASS"
+  },
+  {
+    "packageName": "com.crossover.medicalconference.Activites",
+    "superClass": null,
+    "className": "DoctorMain",
+    "associations": [ ],
+    "usages": [ ],
+    "interfaces": [ ],
+    "type": "CLASS"
+  },
+  {
+    "packageName": "com.crossover.medicalconference.Adapters",
+    "superClass": null,
+    "className": "CustomListAdapterInvites$override",
+    "associations": [ "com.crossover.medicalconference.Adapters.CustomListAdapterInvites" ],
+    "usages": [ ],
+    "interfaces": [ ],
+    "type": "CLASS"
+  },
+  {
+    "packageName": "com.crossover.medicalconference.Adapters",
+    "superClass": null,
+    "className": "CustomListAdapterTopic",
+    "associations": [ ],
+    "usages": [ "com.crossover.medicalconference.Fragments.FragmentTopics" ],
+    "interfaces": [ ],
+    "type": "CLASS"
+  },
+  {
+    "packageName": "com.crossover.medicalconference",
+    "superClass": null,
+    "className": "LoginTest",
+    "associations": [ ],
+    "usages": [ ],
+    "interfaces": [ ],
+    "type": "CLASS"
+  },
+  {
+    "packageName": "com.crossover.medicalconference.Activites",
+    "superClass": null,
+    "className": "InviteActivity",
+    "associations": [ ],
+    "usages": [ "com.crossover.medicalconference.Activites.InviteActivity$override" ],
+    "interfaces": [ ],
+    "type": "CLASS"
+  },
+  {
+    "packageName": "com.crossover.medicalconference.Activites",
+    "superClass": null,
+    "className": "InviteActivity$override",
+    "associations": [ "com.crossover.medicalconference.Activites.InviteActivity" ],
+    "usages": [ ],
+    "interfaces": [ ],
+    "type": "CLASS"
+  },
+  {
+    "packageName": "com.crossover.medicalconference.Activites",
+    "superClass": null,
+    "className": "LoginActivity",
+    "associations": [ ],
+    "usages": [ ],
+    "interfaces": [ ],
+    "type": "CLASS"
+  },
+  {
+    "packageName": "com.crossover.medicalconference.Activites",
+    "superClass": null,
+    "className": "InviteActivityAdmin",
+    "associations": [ ],
+    "usages": [ ],
+    "interfaces": [ ],
+    "type": "CLASS"
+  },
+  {
+    "packageName": "com.crossover.medicalconference.Activites",
+    "superClass": null,
+    "className": "RegisterActivity",
+    "associations": [ ],
+    "usages": [ ],
+    "interfaces": [ ],
+    "type": "CLASS"
+  },
+  {
+    "packageName": "com.crossover.medicalconference.Activites",
+    "superClass": null,
+    "className": "TopicActivity",
+    "associations": [ ],
+    "usages": [ ],
+    "interfaces": [ ],
+    "type": "CLASS"
+  },
+  {
+    "packageName": "com.crossover.medicalconference.Fragments",
+    "superClass": null,
+    "className": "FragmentInvites",
+    "associations": [ "com.crossover.medicalconference.Adapters.CustomListAdapterInvites" ],
+    "usages": [ ],
+    "interfaces": [ ],
+    "type": "CLASS"
+  },
+  {
+    "packageName": "com.crossover.medicalconference.Fragments",
+    "superClass": null,
+    "className": "FragmentConferences",
+    "associations": [ "com.crossover.medicalconference.Adapters.CustomListAdapterConferences" ],
+    "usages": [ ],
+    "interfaces": [ ],
+    "type": "CLASS"
+  },
+  {
+    "packageName": "com.crossover.medicalconference.Helpers",
+    "superClass": null,
+    "className": "AccountManager",
+    "associations": [ ],
+    "usages": [ ],
+    "interfaces": [ ],
+    "type": "CLASS"
+  },
+  {
+    "packageName": "com.crossover.medicalconference.Fragments",
+    "superClass": null,
+    "className": "FragmentProfile",
+    "associations": [ ],
+    "usages": [ ],
+    "interfaces": [ ],
+    "type": "CLASS"
+  },
+  {
+    "packageName": "com.crossover.medicalconference.Fragments",
+    "superClass": null,
+    "className": "FragmentSendTopics",
+    "associations": [ ],
+    "usages": [ ],
+    "interfaces": [ ],
+    "type": "CLASS"
+  },
+  {
+    "packageName": "com.crossover.medicalconference.Fragments",
+    "superClass": null,
+    "className": "FragmentTopics",
+    "associations": [ "com.crossover.medicalconference.Adapters.CustomListAdapterTopic" ],
+    "usages": [ ],
+    "interfaces": [ ],
+    "type": "CLASS"
+  }
+]

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:background="#E9E9E9"
+    android:layout_height="60dp"
+    android:layout_marginBottom="10dp">
+
+    <TextView
+        android:id="@+id/invite_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:text="Conference"
+        android:textSize="20dp"/>
+
+    <TextView
+        android:id="@+id/invite_date"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:text="Date"
+        android:textSize="10dp"/>
+
+    <TextView
+        android:id="@+id/invite_author"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/invite_name"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:text="Invited by"
+        android:textSize="15dp"/>
+
+</RelativeLayout>
